@@ -1,2 +1,2 @@
 # DNS_SP34K3R
-Simple DNS amplification POS script. (NOT MULTITHREADED)
+Simple DNS amplification POC (Proof Of Concept) script. (NOT MULTITHREADED)

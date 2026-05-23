@@ -1,6 +1,3 @@
-#DNS SP34K3R by:R00tendo
-
-
 from scapy.all import *
 import time
 import sys
